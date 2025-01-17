@@ -1,4 +1,4 @@
-<h1>Hey there, I am Noah, an <a href="https://linkedin.com/in/noah-kahlenberg">IT Professional</a> and an OSINT enthusiast!</h1>
+<h1>Hey there, I am Noah, an <a href="https://linkedin.com/in/noah-kahlenberg">IT Professional</a> and an OSINT enthusiast.</h1>
 
 <h2>Information Technology Projects:</h2>
 
