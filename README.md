@@ -3,7 +3,7 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory w/ Test Client](https://github.com/nkernalkberg/configure-ad)
+  - [Configuring Active Directory - Part 1 - Machine Deployment](https://github.com/nkernalkberg/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/nkernalkberg/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/nkernalkberg/osticket-prereqs)
